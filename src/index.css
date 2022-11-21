@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer components {
+  .btn-custom {
+    @apply btn btn-xs sm:btn-sm md:btn-md lg:btn-lg rounded-full border-2 border-black bg-white text-black hover:bg-black hover:text-white  shadow-xl hover:shadow-2xl;
+  }
+  
+  /* .mono-font {
+    @apply fontFamily: "ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace"
+  } */
+}
