@@ -1,8 +1,10 @@
-# This project was developed for my final in my university course. It was hosted in firebase, refer to the link below to view:
+# This project was developed for my final in my university course. 
+## It was hosted in firebase, refer to the link below to view:
 
 https://instant-ramen-global.web.app/
 
-# Getting Started with Create React App
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
